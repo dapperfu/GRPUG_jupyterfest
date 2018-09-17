@@ -1,3 +1,13 @@
+## Local Additions
+.env-*
+bin/
+etc/
+lib64
+pyvenv.cfg
+share/
+
+
+## GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
